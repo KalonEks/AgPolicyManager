@@ -1,0 +1,15 @@
+bin/
+obj/
+node_modules/
+dist/
+.vs/
+.vscode/
+*.user
+*.suo
+*.db
+*.db-shm
+*.db-wal
+*.log
+backend/AgPolicy.Api/agpolicy.db
+backend/AgPolicy.Api/agpolicy.db-shm
+backend/AgPolicy.Api/agpolicy.db-wal
